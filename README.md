@@ -25,4 +25,7 @@ JavaScript (Vanilla JS)
 Live Demo
 You can try the project here:
 https://krupawaani-cmd.github.io/QR-code-generator/
+Screenshot  
+App Screenshot
+screenshot.png
 
